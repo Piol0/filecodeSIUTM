@@ -23,7 +23,7 @@ c = x** y
 print("hasil penjumlahan",c)
 
 c = x // y
-print("hasil penjumlahan",c)
+print("jumlahnya adalah",c)
 
 print("x / y",x / y)
 
